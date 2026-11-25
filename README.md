@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Lakshiya+Rajkumar;AI%2FML+Student;Machine+Learning+%7C+Web+Development+%7C+Fintech+ML" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Lakshiya+Rajkumar;AI%2FML+Engineer;Machine+Learning+%7C+Web+Development+%7C+Fintech+ML" alt="Typing intro" />
 
 </div>
 
 ```yaml
 name: Lakshiya Rajkumar
-role: AI/ML Student & Developer
+role: AI/ML Engineer & Developer
 location: Chennai, India
 focus:
   - machine learning
@@ -32,7 +32,7 @@ looking_for:
 
 ## About
 
-Second-year B.Tech Artificial Intelligence & Machine Learning student at Saveetha Engineering College, Chennai. I build machine learning systems and web applications, with projects spanning fraud detection, AML compliance, and quantum-assisted models. Currently looking for internships and opportunities in ML and web development.
+AI/ML engineer and second-year B.Tech Artificial Intelligence & Machine Learning student at Saveetha Engineering College, Chennai. I build machine learning systems and web applications, with projects spanning fraud detection, AML compliance, and quantum-assisted models. Currently looking for internships and opportunities in ML and web development.
 
 ---
 
