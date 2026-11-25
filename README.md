@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Lakshiya+Rajkumar;AI%2FML+Engineer;Machine+Learning+%7C+Web+Development+%7C+Fintech+ML" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=Lakshiya+Rajkumar;AI%2FML+Engineer;Machine+Learning+%7C+Web+Development" alt="Typing intro" />
 
 </div>
 
@@ -11,11 +11,11 @@ location: Chennai, India
 focus:
   - machine learning
   - web application development
-  - fraud detection & AML compliance
+  - civic tech & sustainability
 currently_building:
-  - Q-Fence — quantum-assisted UPI fraud detection (QLSTM + Quantum GAN)
-  - FairAML — bias-aware AML compliance sidecar
-  - StockPredictionAI — ReAct agent for market analysis
+  - Prompt-Wars — an app that helps people learn about elections and voting
+  - EcoTrack — a website for tracking environmental sustainability
+  - Railway Station Navigation — a passenger wayfinding system
 looking_for:
   - AI/ML internships
   - web development and ML engineering opportunities
@@ -32,7 +32,7 @@ looking_for:
 
 ## About
 
-AI/ML engineer and second-year B.Tech Artificial Intelligence & Machine Learning student at Saveetha Engineering College, Chennai. I build machine learning systems and web applications, with projects spanning fraud detection, AML compliance, and quantum-assisted models. Currently looking for internships and opportunities in ML and web development.
+AI/ML engineer and second-year B.Tech Artificial Intelligence & Machine Learning student at Saveetha Engineering College, Chennai. I build machine learning systems and web applications that solve everyday problems, from voter education to sustainability tracking to public transport navigation. Currently looking for internships and opportunities in ML and web development.
 
 ---
 
@@ -46,61 +46,41 @@ AI/ML engineer and second-year B.Tech Artificial Intelligence & Machine Learning
 
 </div>
 
-### ML / Quantum ML
+### ML
 
-`PyTorch` `PennyLane` `Qiskit` `scikit-learn` `XGBoost` `SHAP` `Fairlearn` `finBERT`
+`PyTorch` `scikit-learn` `XGBoost`
 
-### Backend & Data
-
-<div align="center">
-
-[![Backend](https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite,redis&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Cloud & Tooling
+### Web & Data
 
 <div align="center">
 
-[![Cloud](https://skillicons.dev/icons?i=gcp,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
 </div>
 
-Also: LangGraph · Groq/LLaMA 3.3 · ChromaDB · Streamlit · Vertex AI · Cloud Run · BigQuery · Gemini API
+### Tooling
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## Flagship Builds
+## Projects
 
-### [FairAML](https://github.com/lakshy122007/FairAML)
+### [Prompt-Wars](https://github.com/lakshy122007/Prompt-Wars)
 
-`XGBoost` `Vertex AI` `Fairlearn` `Gemini API` `Cloud Run`
+An app that helps people learn about elections and voting.
 
-Bias-aware AML compliance sidecar for transaction monitoring. Reached the Top 10 mentor-pitch round of the Google Solution Challenge 2026, out of 6,700+ initial submissions. Full Google Cloud–native stack with an enterprise security layer (Cloud Armor, Secret Manager, VPC Service Controls).
+### [EcoTrack](https://github.com/lakshy122007/EcoTrack)
 
-### [StockPredictionAI](https://github.com/lakshy122007/StockPredictionAI)
+A website that helps track environmental sustainability.
 
-`LangGraph` `Groq / LLaMA 3.3-70B` `finBERT` `ChromaDB` `Streamlit`
+### [Railway Station Navigation](https://github.com/lakshy122007/Railway-Station-Navigation)
 
-ReAct agent for market analysis, combining LLM reasoning with sentiment analysis (finBERT) and a vector-backed retrieval pipeline.
-
-### Q-Fence — Quantathon 2026
-
-`PennyLane` `PyTorch` `FastAPI`
-
-Hybrid quantum-assisted UPI fraud detection system using a QLSTM model and a Tabular Quantum GAN for class-imbalance correction. Built end-to-end across a 36-hour international hackathon backed by RIT and IBM — model pipeline, FastAPI backend, and live dashboard.
-
-### RoadSoS
-
-`Emergency Response`
-
-Emergency dispatch system presented at the IIT Madras Road Safety Hackathon 2026.
-
-### GridSense
-
-`Forecasting`
-
-Smart power outage prediction system.
+A system to help passengers find platforms, restrooms, and other station facilities.
 
 ---
 
@@ -144,10 +124,10 @@ Smart power outage prediction system.
 
 ```ts
 const principles = [
-  "Audit the data pipeline before trusting the model",
-  "Classical baseline first, quantum uplift second — and prove the comparison is fair",
-  "Explainability isn't optional in fintech ML",
-  "Ship a working endpoint, not just a notebook"
+  "Build things that solve real, everyday problems",
+  "Keep the user experience simple and accessible",
+  "Understand the data before trusting the model",
+  "Ship a working app, not just a notebook"
 ];
 ```
 
